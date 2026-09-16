@@ -16,5 +16,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-    <img width="350" src="https://user-images.githubusercontent.com/101996062/170575000-ccf67680-4397-4382-bca9-8ebec2d771a2.gif">
+    <img width="350" src="https://user-images.githubusercontent.com/101996062/170575000-ccf67680-4397-4382-bca9-8ebec2d771a2.gif" target="_blanck">
 </div>
